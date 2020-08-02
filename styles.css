@@ -1,0 +1,18 @@
+body {
+    background-color: #f9a03f;
+    color: #436e43;
+    font-family: Georgia;
+}
+
+h1 {
+    text-align: center;
+    color: #a74165;
+    font-weight: bold;
+}
+
+table {
+}
+
+td, th {
+    border: 2px solid #4d6066;
+}
