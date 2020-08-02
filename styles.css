@@ -1,18 +1,28 @@
 body {
     background-color: #f9a03f;
-    color: #436e43;
+    color: #000000;
     font-family: Georgia;
 }
 
 h1 {
     text-align: center;
-    color: #a74165;
+    color: #aa00aa;
     font-weight: bold;
 }
 
 table {
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #b22222;
 }
 
 td, th {
     border: 2px solid #4d6066;
+}
+
+.code {
+    background-color: #dff0d8;
+    font-family: monospace;
 }
