@@ -15,10 +15,10 @@ table {
 }
 
 th {
-    background-color: #b22222;
+    border: 2px solid #b22222;
 }
 
-td, th {
+td {
     border: 2px solid #4d6066;
 }
 
